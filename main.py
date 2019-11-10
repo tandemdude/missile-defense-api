@@ -58,4 +58,4 @@ async def create_database_if_required():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")
+    app.run(host="54.78.60.106")

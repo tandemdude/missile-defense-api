@@ -1,2 +1,2 @@
 aiosqlite==0.10.0
-Quart==0.10.0
+Quart
